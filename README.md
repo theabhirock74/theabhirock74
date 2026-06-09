@@ -1,5 +1,5 @@
-<!-- ![Profile views](https://gpvc.arturio.dev/abhirock74) -->
-![](https://komarev.com/ghpvc/?username=abhirock74&color=red)
+<!-- ![Profile views](https://gpvc.arturio.dev/theabhirock74) -->
+![](https://komarev.com/ghpvc/?username=theabhirock74&color=red)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Hello!+I'm+Abhishek+Kumar;+Full+Stack+Developer;+Frappe+Developer" style="width: 100%;"/>
 
@@ -30,9 +30,9 @@ I am a dedicated **Full Stack Developer** with a specialization in **Frappe Deve
 ---
 
 ## 📊 GitHub Stats:
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhirock74)](https://github.com/ryo-ma/github-profile-trophy)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhirock74&layout=compact&hide=html,css)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhirock74&theme=dracula)
+[![trophy](https://github-profile-trophy.vercel.app/?username=theabhirock74)](https://github.com/ryo-ma/github-profile-trophy)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theabhirock74&layout=compact&hide=html,css)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theabhirock74&theme=dracula)
 
 
 ---
@@ -49,8 +49,8 @@ At the core of all things, it’s all about 0's and 1's!
 
 ## 🌍 Connect with Me:
 - **Email**: [abhirock.bihar@gmail.com](mailto:abhishek.suvaidyam@gmail.com)
-- **LinkedIn**: [@abhirock74](https://www.linkedin.com/in/abhirock74/)
-- **Instagram**: [@the_abhirock74](https://www.instagram.com/the_abhirock74/)
+- **LinkedIn**: [@theabhirock74](https://www.linkedin.com/in/theabhirock74/)
+- **Instagram**: [@the_theabhirock74](https://www.instagram.com/the_theabhirock74/)
 - **YouTube**: [CodeBhoj](https://youtube.com/@CodeBhoj)
 
 ---
