@@ -44,7 +44,7 @@ At the core of all things, it’s all about 0's and 1's!
 ---
 
 ## 🌍 Connect with Me:
-- **Email**: [abhirock.bihar@gmail.com](mailto:abhishek.suvaidyam@gmail.com)
+- **Email**: [theabhirock74@gmail.com](mailto:theabhirock74@gmail.com)
 - **LinkedIn**: [@theabhirock74](https://www.linkedin.com/in/theabhirock74/)
 - **Instagram**: [@the_theabhirock74](https://www.instagram.com/the_theabhirock74/)
 - **YouTube**: [CodeBhoj](https://youtube.com/@CodeBhoj)
