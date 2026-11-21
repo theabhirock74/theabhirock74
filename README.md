@@ -80,7 +80,7 @@ I'm **Abhishek Kumar**, a **Full Stack Developer** specializing in **Frappe Fram
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=theabhirock74&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub trophies" />
+    <img src="https://github-trophies.vercel.app/?username=theabhirock74&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub trophies" />
   </a>
 </p>
 
